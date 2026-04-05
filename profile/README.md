@@ -1,10 +1,14 @@
 ## Spatio-Temporal Lab @ NDHU
 
-We are a research lab in the [Department of Applied Mathematics](https://www.math.ndhu.edu.tw/), National Dong Hwa University, Taiwan, led by [Dr. Hao-Yun Huang](https://hhuscout.wixsite.com/hyhuang).
+We are a research lab in the [Department of Applied Mathematics](https://www.math.ndhu.edu.tw/), National Dong Hwa University, Taiwan.
+
+**Team Leaders:** [Hao-Yun Huang](https://hhuscout.wixsite.com/hyhuang), Wei-Ying Wu, Wen-Ting Wang
 
 ### Research Interests
 
 - Spatial and spatio-temporal statistics for large-scale geospatial data
+- Statistical methods for messy and massive data
+- Spatio-temporal data analysis and modeling
 - Multi-resolution methods on the sphere
 - Deep learning approaches for spatial prediction (DeepKriging)
 - Bootstrap inference for spatial covariance parameters
