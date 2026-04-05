@@ -2,7 +2,7 @@
 
 We are a research lab in the [Department of Applied Mathematics](https://am.ndhu.edu.tw/app/home.php?Lang=zh-TW), National Dong Hwa University, Taiwan.
 
-**Team Leaders:** [Hao-Yun Huang](https://hhuscout.wixsite.com/hyhuang), Wen-Ting Wang, Wei-Ying Wu
+**Team Leaders:** [Hao-Yun Huang](https://hhuscout.wixsite.com/hyhuang), [Wen-Ting Wang](https://github.com/egpivo), Wei-Ying Wu
 
 ### Research Interests
 
